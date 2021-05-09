@@ -16,7 +16,7 @@ namespace Session1
         public FormAgregarUsuario()
         {
             InitializeComponent();
-            llenarRol();
+            FillRole();
         }
 
         private void button2_Click(object sender, EventArgs e)
